@@ -1,0 +1,5 @@
+Extraia toda a pasta do ZIP e abra index.html no Edge ou Chrome.
+Mantenha site.js, site.css e a pasta assets ao lado do index.html.
+As páginas usam #/ na URL para funcionar sem servidor.
+Google Fonts precisa de internet; o formulário continua indisponível.
+Para hospedagem com URLs convencionais, use o pacote bellagio-publicacao.zip.
